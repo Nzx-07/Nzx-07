@@ -16,4 +16,7 @@ App de notas simples, construida con React + Tailwind CSS. La app se encuentra a
 
 Link: https://notas-nzx-web.vercel.app/
 
-![Texto alternativo](logo.png)
+ ![image alt]( https://github.com/Nzx-07/Nzx-07/blob/d430cf7098e4dad2191bb471bcd31a7805abdbbf/landing%20page.png )
+ ![image alt]( https://github.com/Nzx-07/Nzx-07/blob/d430cf7098e4dad2191bb471bcd31a7805abdbbf/Autentificacion.png )
+ ![image alt]( https://github.com/Nzx-07/Nzx-07/blob/d430cf7098e4dad2191bb471bcd31a7805abdbbf/Espacio.png )
+
