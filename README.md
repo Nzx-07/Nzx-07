@@ -26,7 +26,7 @@ Link: https://notas-nzx-web.vercel.app/
 
 
 <p align="center">
-  <img src="https://github.com/Nzx-07/Nzx-07/blob/d430cf7098e4dad2191bb471bcd31a7805abdbbf/landing%20page.png" width=""/>
+  <img src="https://github.com/Nzx-07/Nzx-07/blob/d430cf7098e4dad2191bb471bcd31a7805abdbbf/landing%20page.png" width="270"/>
   <img src="https://github.com/Nzx-07/Nzx-07/blob/d430cf7098e4dad2191bb471bcd31a7805abdbbf/Autentificacion.png" width="270"/>
   <img src="https://github.com/Nzx-07/Nzx-07/blob/d430cf7098e4dad2191bb471bcd31a7805abdbbf/Espacio.png" width="270"/>
 </p>
