@@ -1,6 +1,6 @@
 # Hola👋
 Me interesa el desarrollo.
-Actualmente estoy creando proyectos, hasta el momento tengo un control de aistencia y una web de notas, estoy enfocado en el desarrollo .Net
+Actualmente estoy creando proyectos, hasta el momento tengo una web de notas, estoy enfocado en el desarrollo .Net
 
 ---
 
