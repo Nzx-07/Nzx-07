@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://github.com/Nzx-07/Nzx-07/blob/27b0b6e1681ec744fdd588a36b9601f8f2afaf95/Banner.png" />
+  <img src="https://github.com/Nzx-07/Nzx-07/blob/27b0b6e1681ec744fdd588a36b9601f8f2afaf95/Banner.png" width="100%">
 </p>
 
 # Hola👋
