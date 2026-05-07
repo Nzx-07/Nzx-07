@@ -21,9 +21,9 @@ App de notas simples; para la logica se uso <b>C# + .NET</b>, en el front se uso
 
 El proyecto esta en dos repositorios, una es el front y el otro es la api
 
-<b>Front:<b>  https://github.com/Nzx-07/notas-nzx-web.git
+<b>Front:<b>  https://github.com/Nzx-07/Notas.Nzx-FRONTEND.git
 
-<b>Api:<b>  https://github.com/Nzx-07/Notas.Nzx.git
+<b>Api:<b>  https://github.com/Nzx-07/Notas.Nzx-API.git
 
 <b>Link:<b>  https://notas-nzx-web.vercel.app/
 
