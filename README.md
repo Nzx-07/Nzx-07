@@ -3,8 +3,8 @@
 </p>
 
 # Hola👋
-Me interesa el desarrollo.
-Actualmente estoy creando proyectos, hasta el momento tengo una web de notas, estoy enfocado en el desarrollo .Net
+Soy Nadir Bolivar, apasionado por la tecnología. Busco crear desarrollos con valor para mejorar mis habilidades.
+Actualmente estoy creando proyectos, hasta el momento tengo una web de notas y me estoy enfocado en el desarrollo .Net
 
 ---
 
