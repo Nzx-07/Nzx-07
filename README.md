@@ -36,3 +36,10 @@ El proyecto esta en dos repositorios, una es el front y el otro es la api
   <img src="https://github.com/Nzx-07/Nzx-07/blob/d430cf7098e4dad2191bb471bcd31a7805abdbbf/Autentificacion.png" width="270"/>
   <img src="https://github.com/Nzx-07/Nzx-07/blob/d430cf7098e4dad2191bb471bcd31a7805abdbbf/Espacio.png" width="270"/>
 </p>
+
+<p align="center">
+  <img width="800" height="450" alt="demo Notas Nzx" src="https://github.com/user-attachments/assets/835a204a-71c5-48d2-80b3-09dde8678160" />
+</p>
+
+<h3>🎬<b> Demo Completa</b></h3>
+<b>https://youtu.be/gpWnsMuK_Tg</b>
