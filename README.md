@@ -18,7 +18,7 @@ Actualmente estoy creando proyectos, hasta el momento tengo una web de notas y m
 
 # Projects
 ### Notas.Nzx 
-App de notas simples; para la logica se uso <b>C# + .NET</b>, en el front se uso <b>React + Tailwind CSS</b>. La app se encuentra alojada en Vercel, incluye landing page, autenticación y espacio de notas personalizable Con 3 temas.
+App de notas simples; para la logica se uso <b>C# + .NET</b>, en el front se uso <b>React + Tailwind CSS</b>. La app se encuentra alojada en Vercel, incluye landing page, autenticación y espacio de notas personalizable Con diversos temas.
 
 El proyecto esta en dos repositorios, una es el front y el otro es la api
 
@@ -27,8 +27,6 @@ El proyecto esta en dos repositorios, una es el front y el otro es la api
 <b>Api:<b>  https://github.com/Nzx-07/Notas.Nzx-API.git
 
 <b>Link:<b>  https://notas-nzx-web.vercel.app/
-
-<h3>🚧 <b>En desarrollo</b></h3>
 
 
 <p align="center">
@@ -43,3 +41,7 @@ El proyecto esta en dos repositorios, una es el front y el otro es la api
 
 <h3>🎬<b> Demo Completa</b></h3>
 <b>https://youtu.be/gpWnsMuK_Tg</b>
+
+---
+### Proximo proyecto en planificacion --->  AsisTrack
+App de control de asistencias, esta aplicacion se desarrolla y presta servicio en la web.
